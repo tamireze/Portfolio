@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^12.2.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/faker": "^6.6.9",
+    "cypress-localstorage-commands": "^2.2.2"
+  }
+}
