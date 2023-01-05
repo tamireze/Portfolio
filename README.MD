@@ -34,10 +34,10 @@ Como já dito minha primeira experiência já foi logo com o QA. Iniciei o está
 
 **Bugs**
 
-* 
+* Bug encontrado no Site Seu Barriga [LINK do Relatório de Bug](https://drive.google.com/file/d/1koHzNHvtAI7hCWhF-3w9OsI946fA0i8V/view?usp=sharing)
 
 
 **Casos de Teste**
 
-* 
+* Casos de Testes do Site Seu Barriga [LINK do Caso de Teste](https://docs.google.com/spreadsheets/d/1cf1vNmawYpK8TdfnWXfH_LNnm3PlEIHIKsXJsTaIpBI/edit?usp=sharing)
 
