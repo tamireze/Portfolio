@@ -52,5 +52,5 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 **Cypress**
 
 * Projeto do curso de Cypress Avançado [LINK do arquivo](Curso_Avançado/cypress/e2e/hackernewsStories.cy.js)
-* Projeto do curso de Cucumber [LINK da pasta]()
+* Projeto do curso de Cucumber [LINK da pasta](Curso_BDD)
 
