@@ -10,6 +10,10 @@ Me chamo Tamires de Oliveira, moro em Fortaleza-CE. Meu interesse pela informát
 Como já dito minha primeira experiência já foi logo com o QA. Iniciei o estágio em agosto de 2021, onde aprendi sobre os sistemas utilizados e as ferramentas, e já dei inicio ao aprendizado com o Cypress. Em fevereiro de 2022 fui efetivada pela empresa e continuei focada em aprender coisas novas.
 Em 2023 fui efetivada em outra empresa que estou atualmente.
 
+## CV - DOCX
+
+* Link do Google Drive do meu CV [LINK do Documentos do Google](https://docs.google.com/document/d/1YNdzWkB8nrdI6QVRhLTsNoFtWJEO1fJrKh0gVrvFvkc/edit?usp=sharing)
+
 ## Cursos
 
 * TESTES AUTOMATIZADOS COM CYPRESS - AVANÇADO - 3h - UDEMY.
@@ -17,6 +21,8 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 * FORMAÇÃO COMPLETA EM SCRUM - PLANEJAMENTO E GESTÃO ÁGIL DE PROJETOS - 4h - Unieducar
 * TESTES EXPLORATÓRIOS  - 11h - UDEMY
 * CYPRESS WITH CUCUMBER BDD - BEGINNER TO EXPERT IN 9 HOURS! - 9h - UDEMY
+* GUIA DO MONGODB(GOOGLE CLOUD, NO SQL, ALTA DISPONIBILIDADE) - 2h - UDEMY
+* TESTANDO API COM MONGODB E RABBITMQ EM CYPRESS - 7h20 - QAxperience
 
 ## Idiomas
 
@@ -28,7 +34,7 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 * Jira, Taiga - Rastreamento de Bugs
 * Trello - Gerenciamento de Projetos
 * Chrome DevTools - Para testar e melhorar relatórios de bugs
-* Git, Git Bash, GitHub
+* Git, Git Bash
 * Postgresql
 * MongoDB
 * Java - Básico
@@ -53,4 +59,5 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 
 * Projeto do curso de Cypress Avançado [LINK do arquivo](Curso_Avançado/cypress/e2e/hackernewsStories.cy.js)
 * Projeto do curso de Cucumber [LINK da pasta](Curso_BDD)
+* Projeto do curso de Teste de Api com MongoBD e RabbitMQ [LINK da pasta](Curso_TesteDeApi)
 

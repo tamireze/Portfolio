@@ -1,0 +1,27 @@
+{
+    "create": {
+        "user": {
+            "name": "Blue Ivy",
+            "email": "blueivy@yahoo.com",
+            "password": "tami321"
+        },
+        "task": {
+            "name": "Pagar a fatura do meu cartão",
+            "tags": [
+                "c6",
+                "itau",
+                "caixa"
+            ]
+        }
+    },
+    "duplicate":{
+        "user": {
+            "name": "Harley Queen",
+            "email": "queen@yahoo.com",
+            "password": "tami321"
+        },
+        "task": {
+            "name": "Fazer cursos necessarios"
+        }
+    }
+}

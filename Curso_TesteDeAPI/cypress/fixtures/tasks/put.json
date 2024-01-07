@@ -1,0 +1,25 @@
+{
+    "update": {
+        "user": {
+            "name": "Erva",
+            "email": "erva@yahoo.com",
+            "password": "tami321"
+        },
+        "task": {
+            "name": "Criar metas para 2024",
+            "tags": [
+                "journal"
+            ]
+        }
+    },
+    "notFound":{
+        "user": {
+            "name": "Joker",
+            "email": "joker@yahoo.com",
+            "password": "tami321"
+        },
+        "task": {
+            "name": "Fazer biscoitos de natal"
+        }
+    }
+}

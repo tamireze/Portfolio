@@ -1,0 +1,25 @@
+{
+    "remove": {
+        "user": {
+            "name": "ASAP Rocky",
+            "email": "asap@yahoo.com",
+            "password": "tami321"
+        },
+        "task": {
+            "name": "Criar um jogo",
+            "tags": [
+                "android studio"
+            ]
+        }
+    },
+    "notFound": {
+        "user": {
+            "name": "Bruce wayne",
+            "email": "brucea@yahoo.com",
+            "password": "tami321"
+        },
+        "task": {
+            "name": "Desing de uma nova armadura"
+        }
+    }
+}

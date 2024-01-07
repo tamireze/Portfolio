@@ -1,0 +1,30 @@
+{
+    "login": {
+        "name": "Urias",
+        "email": "urias@hotmail.com",
+        "password": "tami321"
+    },
+    "inv_pass": {
+        "email": "kaua@hotmail.com",
+        "password": "tami3214"
+    },
+    "email_404": {
+        "email": "kaua1@hotmail.com",
+        "password": "tami321"
+    },
+    "create": {
+        "name": "Tamires",
+        "email": "tamires123oliveira123@gmail.com",
+        "password": "tami321"
+    },
+    "dup_email":{
+        "name": "Kaua",
+        "email": "kaua@hotmail.com",
+        "password": "tami321"
+    },
+    "required":{
+        "name": "Beyoncé Knowles",
+        "email": "beyonce@yahoo.com",
+        "password": "tami321"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "list": {
+        "user": {
+            "name": "RZA",
+            "email": "rzay@yahoo.com",
+            "password": "tami321"
+        },
+        "tasks": [
+            {
+                "name": "Estud4r javacript",
+                "tags": [
+                    "js"
+                ]
+            },
+            {
+                "name": "Estud4r Cypress",
+                "tags": [
+                    "cypress"
+                ]
+            },
+            {
+                "name": "Estud4r mongodb",
+                "tags": [
+                    "rosa",
+                    "preta"
+                ]
+            }
+        ]
+    },
+    "unique": {
+        "user": {
+            "name": "Rihanna",
+            "email": "Rihanna@yahoo.com",
+            "password": "tami321"
+        },
+        "task": {
+            "name": "Ler um livro",
+            "tags": [
+                "Uma separação"
+            ]
+        }
+    },
+    "notFound": {
+        "user": {
+            "name": "Lady Gaga",
+            "email": "ladya@yahoo.com",
+            "password": "tami321"
+        },
+        "task": {
+            "name": "Pintar as unhas",
+            "tags": [
+                "rosa",
+                "preto"
+            ]
+        }
+    }
+}
