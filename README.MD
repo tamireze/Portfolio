@@ -33,7 +33,7 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 
 * Jira, Taiga - Rastreamento de Bugs
 * Trello - Gerenciamento de Projetos
-* Chrome DevTools - Para testar e melhorar relatórios de bugs
+* DevTools - Para testar e melhorar relatórios de bugs
 * Git, Git Bash
 * Postgresql
 * MongoDB
