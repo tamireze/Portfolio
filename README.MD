@@ -23,6 +23,13 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 * CYPRESS WITH CUCUMBER BDD - BEGINNER TO EXPERT IN 9 HOURS! - 9h - UDEMY
 * GUIA DO MONGODB(GOOGLE CLOUD, NO SQL, ALTA DISPONIBILIDADE) - 2h - UDEMY
 * TESTANDO API COM MONGODB E RABBITMQ EM CYPRESS - 7h20 - QAxperience
+* LIDERANÇA E GESTÃO DE EQUIPES - 5h - UDEMY
+* JIRA SOFTWARE (2023): PROJETOS COMPLETOS COM SCRUM - 6h - UDEMY
+* ROBOT DISCOVER - 3h25 - QAx
+* BDD DISCOVER - 5h - QAx
+* FIGMA DESIGN DE INTERFACES DO ZERO AO PROFISSIONAL 2023 - 14h- UDEMY 
+* JMETER - TESTE DE PERFORMANCE - 6h - UDEMY
+* CYPRESS EXPRESS - 4h - UDEMY
 
 ## Idiomas
 
@@ -37,6 +44,7 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 * Git, Git Bash
 * Postgresql
 * MongoDB
+* SQLServer
 * Java - Básico
 * Cypress 
 * Cypress para testar API
@@ -60,4 +68,6 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 * Projeto do curso de Cypress Avançado [LINK do arquivo](Curso_Avançado/cypress/e2e/hackernewsStories.cy.js)
 * Projeto do curso de Cucumber [LINK da pasta](Curso_BDD)
 * Projeto do curso de Teste de Api com MongoBD e RabbitMQ [LINK da pasta](Curso_TesteDeAPI)
+* Projeto do curso de Robot [LINK da pasta](WalkDog_Robot)
+* Projeto do curso de Cypress Express [LINK da pasta](Curso_CypressExpress)
 

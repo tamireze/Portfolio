@@ -1,0 +1,18 @@
+{
+    "new":{
+        "name": "Ler um livro"
+    },
+    "dup": {
+        "name": "Estudar JS",
+        "is_done": false
+    },
+    "att":{
+        "name": "Ler um livro de node js",
+        "is_done": false
+    },
+    "remove": {
+        "name": "Pagar fatura",
+        "is_done": false
+    }
+
+}

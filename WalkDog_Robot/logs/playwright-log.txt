@@ -1,0 +1,811 @@
+{"level":30,"time":"2024-02-20T01:29:37.748Z","pid":11800,"hostname":"TAMIRES","msg":"Listening on 56769"}
+(node:11800) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-02-20T01:29:37.939Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:37.939Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:37.942Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:37.942Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:37.946Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-02-20T01:29:38.290Z","pid":11800,"hostname":"TAMIRES","msg":"Adding browser to stack: chromium, version: 121.0.6167.57"}
+{"level":30,"time":"2024-02-20T01:29:38.291Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-02-20T01:29:38.291Z","pid":11800,"hostname":"TAMIRES","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-02-20T01:29:38.300Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-20T01:29:38.300Z","pid":11800,"hostname":"TAMIRES","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-20T01:29:38.313Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:38.462Z","pid":11800,"hostname":"TAMIRES","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-20T01:29:38.462Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:39.456Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-20T01:29:39.464Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:39.464Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-20T01:29:39.494Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:39.499Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:39.499Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.579Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:39.585Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:39.586Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-20T01:29:39.592Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:39.598Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:39.599Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-20T01:29:39.622Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-20T01:29:39.622Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:39.626Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:39.626Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.655Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:39.658Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:39.658Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.685Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:39.689Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:39.690Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.705Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:39.707Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:39.707Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.723Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:39.725Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:39.725Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[type=button][value$=CEP] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.781Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:39.784Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.785Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.792Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:39.792Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.804Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.804Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.813Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:39.813Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.825Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.825Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.834Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:39.834Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.846Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.846Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.855Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:39.855Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.867Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.867Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.875Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:39.875Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.887Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.888Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.895Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:39.896Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.908Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.908Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.919Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:39.919Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.931Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.931Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.939Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:39.939Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.952Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.952Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.961Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.961Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:39.974Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.974Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:39.983Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:39.983Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.995Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:39.995Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.004Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.004Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.016Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.016Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.023Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.023Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.035Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.036Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.043Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.043Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.055Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.056Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.063Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.063Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.075Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.076Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.084Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.084Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.097Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.097Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.105Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.105Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.117Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.117Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.125Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.125Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.137Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.137Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.147Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.147Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.160Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.160Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.168Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.168Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.181Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.181Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.188Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.188Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.200Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.200Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.207Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.207Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.220Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.220Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.227Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.227Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.239Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.239Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.247Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:40.247Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.259Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.259Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.269Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua 709"}
+{"level":30,"time":"2024-02-20T01:29:40.269Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.271Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.271Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.278Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Conjunto Ceará II"}
+{"level":30,"time":"2024-02-20T01:29:40.278Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.281Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.281Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.288Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing Fortaleza/CE"}
+{"level":30,"time":"2024-02-20T01:29:40.288Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:40.290Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:40.290Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.305Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:40.308Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:40.308Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.324Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:40.327Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-02-20T01:29:40.352Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:40.352Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-20T01:29:40.399Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:40.403Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:40.403Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-02-20T01:29:41.234Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:41.236Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:41.236Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-02-20T01:29:41.249Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved text for element css=#swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2024-02-20T01:29:41.249Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:41.252Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-20T01:29:41.252Z","pid":11800,"hostname":"TAMIRES","Take screenshot with options: ":{"path":"T:\\QAx\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-20T01:29:41.472Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-20T01:29:41.478Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:41.483Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:41.485Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:41.487Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:41.489Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:41.489Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=f8722d6f-6a5b-4e26-8705-a9dcc17d90dc"}
+{"level":30,"time":"2024-02-20T01:29:41.489Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:41.492Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:41.493Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:41.494Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:41.495Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:41.498Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:41.499Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:41.503Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=f8722d6f-6a5b-4e26-8705-a9dcc17d90dc"}
+{"level":30,"time":"2024-02-20T01:29:41.503Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:41.506Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:41.507Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:41.509Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:41.509Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=f8722d6f-6a5b-4e26-8705-a9dcc17d90dc"}
+{"level":30,"time":"2024-02-20T01:29:41.509Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:41.511Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-20T01:29:41.522Z","pid":11800,"hostname":"TAMIRES","msg":"Removed page=4f89f848-e17b-441e-8eef-255e972ae3e2 from context=bb3e5b83-9da5-486b-9d50-65b6a0773229 page stack"}
+{"level":30,"time":"2024-02-20T01:29:41.535Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-20T01:29:41.540Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:41.540Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:41.544Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:41.544Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:41.547Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-20T01:29:41.547Z","pid":11800,"hostname":"TAMIRES","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-20T01:29:41.554Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:41.673Z","pid":11800,"hostname":"TAMIRES","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-20T01:29:41.673Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:42.621Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-20T01:29:42.624Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.624Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-20T01:29:42.659Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.663Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:42.663Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-20T01:29:42.751Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:42.754Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.754Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-20T01:29:42.759Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.761Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:42.761Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-20T01:29:42.809Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-20T01:29:42.809Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:42.812Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:42.813Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-20T01:29:42.884Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:42.888Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.888Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu nome completo in page."}
+{"level":30,"time":"2024-02-20T01:29:42.893Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.897Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.897Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu melhor email in page."}
+{"level":30,"time":"2024-02-20T01:29:42.902Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.906Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.906Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu CPF in page."}
+{"level":30,"time":"2024-02-20T01:29:42.910Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.913Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.913Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu CEP in page."}
+{"level":30,"time":"2024-02-20T01:29:42.917Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.921Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.921Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe um número maior que zero in page."}
+{"level":30,"time":"2024-02-20T01:29:42.923Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.926Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.926Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Adcione um documento com foto (RG ou CHN) in page."}
+{"level":30,"time":"2024-02-20T01:29:42.929Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:42.933Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-20T01:29:42.933Z","pid":11800,"hostname":"TAMIRES","Take screenshot with options: ":{"path":"T:\\QAx\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-2.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-20T01:29:43.136Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-20T01:29:43.142Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:43.143Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:43.145Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:43.148Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:43.150Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:43.150Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=1abe3342-01aa-421b-bd63-060daa2bc5f6"}
+{"level":30,"time":"2024-02-20T01:29:43.150Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:43.153Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:43.154Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:43.156Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:43.156Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:43.158Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:43.158Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:43.160Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=1abe3342-01aa-421b-bd63-060daa2bc5f6"}
+{"level":30,"time":"2024-02-20T01:29:43.160Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:43.166Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:43.168Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:43.170Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:43.171Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=1abe3342-01aa-421b-bd63-060daa2bc5f6"}
+{"level":30,"time":"2024-02-20T01:29:43.171Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:43.173Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-20T01:29:43.180Z","pid":11800,"hostname":"TAMIRES","msg":"Removed page=83e7090e-7876-4363-8ffd-535523656105 from context=2b240f2a-d7e4-47bb-8b59-744fa700b360 page stack"}
+{"level":30,"time":"2024-02-20T01:29:43.191Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-20T01:29:43.195Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:43.195Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:43.199Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:43.199Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:43.201Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-20T01:29:43.201Z","pid":11800,"hostname":"TAMIRES","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-20T01:29:43.209Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:43.352Z","pid":11800,"hostname":"TAMIRES","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-20T01:29:43.353Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:44.238Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-20T01:29:44.240Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:44.240Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-20T01:29:44.264Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:44.270Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:44.270Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.352Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:44.354Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:44.354Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-20T01:29:44.359Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:44.362Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:44.362Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-20T01:29:44.387Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-20T01:29:44.387Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:44.390Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:44.390Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.410Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:44.415Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:44.415Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.440Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:44.443Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:44.443Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.467Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:44.471Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:44.471Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.487Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:44.489Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:44.489Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[type=button][value$=CEP] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.535Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:44.537Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.537Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.547Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.547Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.559Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.559Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.568Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.568Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.580Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.580Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.588Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.588Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.599Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.600Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.607Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.607Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.619Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.619Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.628Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.628Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.640Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.640Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.649Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.649Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.661Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.662Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.672Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.672Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.684Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.684Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.694Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.694Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.706Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.706Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.716Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.716Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.728Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.728Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.737Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.737Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.750Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.750Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.758Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.758Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.771Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.771Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.782Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.783Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.795Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.795Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.810Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.811Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.823Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.823Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.836Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.836Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.848Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.849Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.857Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.857Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.869Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.869Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.877Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.877Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.890Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.890Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.897Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.898Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.909Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.910Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.918Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.918Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.930Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.930Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.938Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.938Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.950Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.950Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.956Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.956Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.968Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.968Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.974Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:44.974Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.986Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.986Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:44.993Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua 709"}
+{"level":30,"time":"2024-02-20T01:29:44.993Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.995Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:44.995Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-02-20T01:29:45.002Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Conjunto Ceará II"}
+{"level":30,"time":"2024-02-20T01:29:45.002Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:45.004Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:45.004Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-02-20T01:29:45.010Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing Fortaleza/CE"}
+{"level":30,"time":"2024-02-20T01:29:45.010Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:45.013Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:45.013Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-02-20T01:29:45.024Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:45.026Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:45.027Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-02-20T01:29:45.042Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:45.044Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-02-20T01:29:45.062Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-20T01:29:45.062Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:45.115Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:45.118Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:45.118Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=CPF Inválido in page."}
+{"level":30,"time":"2024-02-20T01:29:45.121Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:45.124Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-20T01:29:45.124Z","pid":11800,"hostname":"TAMIRES","Take screenshot with options: ":{"path":"T:\\QAx\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-3.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-20T01:29:45.356Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-20T01:29:45.360Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:45.362Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:45.364Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:45.366Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:45.367Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:45.367Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=bb15062b-06fe-45bf-85b5-d33796468b51"}
+{"level":30,"time":"2024-02-20T01:29:45.367Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:45.370Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:45.371Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:45.372Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:45.373Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:45.374Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:45.374Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:45.376Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=bb15062b-06fe-45bf-85b5-d33796468b51"}
+{"level":30,"time":"2024-02-20T01:29:45.376Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:45.379Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:45.381Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:45.384Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:45.384Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=bb15062b-06fe-45bf-85b5-d33796468b51"}
+{"level":30,"time":"2024-02-20T01:29:45.384Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:45.385Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-20T01:29:45.391Z","pid":11800,"hostname":"TAMIRES","msg":"Removed page=43110311-e374-4553-9e6e-73d1357af81f from context=e6d46d7f-f701-4e22-b254-2a15d9ad9f6d page stack"}
+{"level":30,"time":"2024-02-20T01:29:45.404Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-20T01:29:45.407Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:45.408Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:45.411Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:45.411Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:45.414Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-20T01:29:45.414Z","pid":11800,"hostname":"TAMIRES","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-20T01:29:45.420Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:45.536Z","pid":11800,"hostname":"TAMIRES","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-20T01:29:45.536Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:46.544Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-20T01:29:46.548Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:46.549Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-20T01:29:46.573Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:46.576Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:46.576Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.693Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:46.695Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:46.695Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-20T01:29:46.702Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:46.704Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:46.704Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-20T01:29:46.722Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-20T01:29:46.722Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:46.724Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:46.724Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.738Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:46.740Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:46.740Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.756Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:46.759Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:46.759Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.775Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:46.777Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:46.777Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.794Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:46.796Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:46.796Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[type=button][value$=CEP] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.845Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:46.848Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.848Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.854Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:46.854Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.866Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.866Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.872Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:46.872Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.884Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.884Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.890Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:46.890Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.902Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.902Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.908Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:46.908Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.920Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.920Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.926Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:46.926Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.938Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.938Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.944Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:46.944Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.955Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.955Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.961Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:46.961Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.972Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.973Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:46.980Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:46.980Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.993Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:46.993Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.002Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.002Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.014Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.014Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.022Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.022Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.034Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.034Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.040Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.040Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.052Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.052Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.059Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.059Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.071Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.071Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.077Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.077Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.089Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.089Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.095Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.095Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.107Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.107Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.113Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.113Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.127Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.127Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.156Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.156Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.169Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.169Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.180Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.180Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.194Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.194Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.213Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.213Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.225Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.225Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.232Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.232Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.246Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.247Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.267Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.267Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.279Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.280Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.288Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:47.288Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.300Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.300Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.310Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua 709"}
+{"level":30,"time":"2024-02-20T01:29:47.310Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.312Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.312Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.319Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Conjunto Ceará II"}
+{"level":30,"time":"2024-02-20T01:29:47.319Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.321Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.321Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.326Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing Fortaleza/CE"}
+{"level":30,"time":"2024-02-20T01:29:47.326Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:47.328Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:47.328Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.339Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:47.341Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:47.341Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.353Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:47.356Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-02-20T01:29:47.370Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:47.370Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with xpath=//span[text()=\"Cuidar\"]/.. in page."}
+{"level":30,"time":"2024-02-20T01:29:47.406Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:47.408Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:47.409Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-20T01:29:47.485Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:47.489Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:47.489Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-02-20T01:29:48.320Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:48.322Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:48.322Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-02-20T01:29:48.333Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved text for element css=#swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2024-02-20T01:29:48.333Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:48.336Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-20T01:29:48.336Z","pid":11800,"hostname":"TAMIRES","Take screenshot with options: ":{"path":"T:\\QAx\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-4.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-20T01:29:48.548Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-20T01:29:48.553Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:48.554Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:48.555Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:48.557Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:48.558Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:48.558Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=e3d106c5-1561-4306-9416-222fefc82a40"}
+{"level":30,"time":"2024-02-20T01:29:48.558Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:48.561Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:48.563Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:48.566Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:48.566Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:48.568Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:48.568Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:48.570Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=e3d106c5-1561-4306-9416-222fefc82a40"}
+{"level":30,"time":"2024-02-20T01:29:48.570Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:48.573Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:48.574Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:48.575Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:48.575Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=e3d106c5-1561-4306-9416-222fefc82a40"}
+{"level":30,"time":"2024-02-20T01:29:48.575Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:48.577Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-20T01:29:48.583Z","pid":11800,"hostname":"TAMIRES","msg":"Removed page=1390144a-bb4f-49bf-b6b1-5d6d275b07d5 from context=fa950189-4266-45e7-8248-483c83e3e64f page stack"}
+{"level":30,"time":"2024-02-20T01:29:48.595Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-20T01:29:48.599Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:48.599Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:48.602Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:48.602Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:48.605Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-20T01:29:48.605Z","pid":11800,"hostname":"TAMIRES","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-20T01:29:48.611Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:48.722Z","pid":11800,"hostname":"TAMIRES","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-20T01:29:48.722Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:49.632Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-20T01:29:49.634Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:49.634Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-20T01:29:49.656Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:49.658Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:49.658Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.740Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:49.742Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:49.742Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-20T01:29:49.749Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:49.752Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:49.752Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-20T01:29:49.769Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-20T01:29:49.769Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:49.772Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:49.772Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.787Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:49.789Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:49.789Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.805Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:49.807Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:49.807Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.822Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:49.824Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:49.824Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.842Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:49.844Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:49.844Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[type=button][value$=CEP] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.901Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:49.903Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.903Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.913Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:49.913Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.924Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.925Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.932Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:49.932Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.943Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.943Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.951Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:49.951Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.962Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.962Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.969Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:49.969Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.981Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.981Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:49.987Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:49.987Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.999Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:49.999Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.005Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.005Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.016Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.016Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.022Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.022Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.034Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.034Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.039Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.039Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.051Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.051Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.057Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.057Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.068Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.069Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.075Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.075Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.086Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.086Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.092Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.092Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.104Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.104Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.110Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.110Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.122Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.122Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.129Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.129Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.140Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.140Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.148Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.149Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.160Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.160Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.168Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.168Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.180Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.180Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.187Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.187Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.199Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.199Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.205Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.205Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.216Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.217Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.222Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.222Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.234Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.234Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.239Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.239Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.251Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.251Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.257Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.257Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.269Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.269Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.275Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.275Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.287Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.287Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.293Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.293Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.305Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.305Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.311Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.311Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.323Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.323Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.331Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-20T01:29:50.331Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.342Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.342Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.355Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua 709"}
+{"level":30,"time":"2024-02-20T01:29:50.355Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.357Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.357Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.364Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Conjunto Ceará II"}
+{"level":30,"time":"2024-02-20T01:29:50.364Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.366Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.366Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.374Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing Fortaleza/CE"}
+{"level":30,"time":"2024-02-20T01:29:50.374Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-20T01:29:50.376Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:50.376Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.388Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:50.391Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:50.391Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.402Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-20T01:29:50.405Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-02-20T01:29:50.419Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:50.419Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with xpath=//span[text()=\"Adestrar\"]/.. in page."}
+{"level":30,"time":"2024-02-20T01:29:50.456Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:50.459Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-20T01:29:50.459Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-20T01:29:50.510Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method click"}
+{"level":30,"time":"2024-02-20T01:29:50.512Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:50.513Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-02-20T01:29:51.341Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-20T01:29:51.349Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:51.350Z","pid":11800,"hostname":"TAMIRES","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-02-20T01:29:51.368Z","pid":11800,"hostname":"TAMIRES","msg":"Retrieved text for element css=#swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2024-02-20T01:29:51.368Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-20T01:29:51.371Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-20T01:29:51.371Z","pid":11800,"hostname":"TAMIRES","Take screenshot with options: ":{"path":"T:\\QAx\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-5.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-20T01:29:51.594Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-20T01:29:51.603Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:51.605Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:51.606Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:51.608Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:51.610Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:51.610Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=329355c4-6b96-47e9-ba02-8cc6c4b20263"}
+{"level":30,"time":"2024-02-20T01:29:51.610Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:51.614Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:51.617Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:51.619Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:51.620Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:51.622Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:51.622Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-20T01:29:51.625Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=329355c4-6b96-47e9-ba02-8cc6c4b20263"}
+{"level":30,"time":"2024-02-20T01:29:51.625Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:51.655Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:51.657Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:51.659Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active context"}
+{"level":30,"time":"2024-02-20T01:29:51.659Z","pid":11800,"hostname":"TAMIRES","msg":"Changing current active page: page=329355c4-6b96-47e9-ba02-8cc6c4b20263"}
+{"level":30,"time":"2024-02-20T01:29:51.659Z","pid":11800,"hostname":"TAMIRES","msg":"Changed active page"}
+{"level":30,"time":"2024-02-20T01:29:51.663Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-20T01:29:51.671Z","pid":11800,"hostname":"TAMIRES","msg":"Removed page=e1cb4649-068e-46ec-b924-76e224e06898 from context=ccf078e3-e8d1-47a4-bd85-d3108b4fc113 page stack"}
+{"level":30,"time":"2024-02-20T01:29:51.682Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-20T01:29:51.689Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:51.689Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-20T01:29:51.749Z","pid":11800,"hostname":"TAMIRES","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-02-20T01:29:51.970Z","pid":11800,"hostname":"TAMIRES","msg":"End of node method closeAllBrowsers"}
