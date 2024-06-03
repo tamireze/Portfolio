@@ -68,6 +68,7 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 * Projeto do curso de Cypress Avançado [LINK do arquivo](Curso_Avançado/cypress/e2e/hackernewsStories.cy.js)
 * Projeto do curso de Cucumber [LINK da pasta](Curso_BDD)
 * Projeto do curso de Teste de Api com MongoBD e RabbitMQ [LINK da pasta](Curso_TesteDeAPI)
-* Projeto do curso de Robot [LINK da pasta](WalkDog_Robot)
 * Projeto do curso de Cypress Express [LINK da pasta](Curso_CypressExpress)
 
+**Robot**
+* Projeto do curso de Robot [LINK da pasta](WalkDog_Robot)
