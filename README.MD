@@ -62,7 +62,7 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 
 **Estudo de caso para a Pós-Graduação**
 
-*Link para o Google Docs de um trablaho feito para a Pós-Graduação [LINK do Estudo de Caso ](https://docs.google.com/document/d/1mZIyxl4plOJlarUoNcO7k4EFTTut3V9-sliBsnyQVkQ/edit?usp=sharing)
+* Link para o Google Docs de um trabalho feito para a Pós-Graduação [LINK do Estudo de Caso ](https://docs.google.com/document/d/1mZIyxl4plOJlarUoNcO7k4EFTTut3V9-sliBsnyQVkQ/edit?usp=sharing)
 
 **Bugs**
 
