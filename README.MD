@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Me chamo Tamires de Oliveira, moro em Fortaleza-CE. Meu interesse pela informática veio desde que entrei em um curso profissionalizante integrado com o Ensino Médio, lá cursei Informática e aprendi tudo do básico de programação e redes. Dentro do curso existe a cadeira de estágio e foi ai que iniciei minha vida com o QA. Assim que terminei o Ensino Médio entrei na Faculdade de Análise e Desenvolvimento de Sistemas na qual já me formei.
+Me chamo Tamires de Oliveira, moro em Fortaleza-CE. Meu interesse pela informática veio desde que entrei em um curso profissionalizante integrado com o Ensino Médio, lá cursei Informática e aprendi tudo do básico de programação e redes. Dentro do curso existe a cadeira de estágio e foi ai que iniciei minha vida com o QA. Assim que terminei o Ensino Médio entrei na Faculdade de Análise e Desenvolvimento de Sistemas na qual já me formei. Após tabalhar 2 anos como QA eu criei um enorme interesse na área de produto e atualmente faço Pós-Graduação em Product Management.
 
 
 **Minha experiência**
@@ -30,10 +30,15 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 * FIGMA DESIGN DE INTERFACES DO ZERO AO PROFISSIONAL 2023 - 14h- UDEMY 
 * JMETER - TESTE DE PERFORMANCE - 6h - UDEMY
 * CYPRESS EXPRESS - 4h - UDEMY
+* TESTES CONTÍNUOS EM CYPRESS COM GITHUB ACTIONS - 2,5h - UDEMY
+* GESTÃO DE DESEMPENHOS E SUAS TENDÊNCIAS - 5h - Qulture.Rocks
+* TRILHA DE APRENDIZAGEM GESTÃO ÁGIL PARA TRANSFORMAÇÃO DIGITAL - 175h - Enap
+
 
 ## Idiomas
 
-* Inglês Intermediario - Youth Idiomas
+* Inglês Avançado - Youth Idiomas
+* Libras Básico - CREAECE
 
 
 ## Ferramentas
@@ -51,13 +56,17 @@ Em 2023 fui efetivada em outra empresa que estou atualmente.
 * JMeter
 * Markdown
 * HTML/CSS
+* Postman
 
 ## Meus Projetos
+
+**Estudo de caso para a Pós-Graduação**
+
+*Link para o Google Docs de um trablaho feito para a Pós-Graduação [LINK do Estudo de Caso ](https://docs.google.com/document/d/1mZIyxl4plOJlarUoNcO7k4EFTTut3V9-sliBsnyQVkQ/edit?usp=sharing)
 
 **Bugs**
 
 * Bug encontrado no Site Seu Barriga [LINK do Relatório de Bug](https://drive.google.com/file/d/1koHzNHvtAI7hCWhF-3w9OsI946fA0i8V/view?usp=sharing)
-
 
 **Casos de Teste**
 
