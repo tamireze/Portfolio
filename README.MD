@@ -18,14 +18,14 @@ Atuar como **Product Owner (PO)**, conectando times técnicos e de negócio para
 
 ## **💼 Experiência Profissional**  
 
-### **QA Analyst – Empresa Atual (2023 – Presente)**  
+### **QA Analyst – Mercado Eletrônico (2023 – Presente)**  
 - Automação de testes end-to-end com Cypress e integração contínua utilizando GitHub Actions.  
 - Participação em squads ágeis, colaborando diretamente com Product Owners e desenvolvedores para garantir entregas de alta qualidade.  
 - Condução de testes exploratórios e de regressão, com foco na experiência do usuário.  
 - Desenvolvimento de habilidades em bancos de dados como SQL Server.  
 - Testes de validação de APIs usando Postman. 
 
-### **QA Trainee – Empresa Anterior (2021 – 2023)**  
+### **QA Trainee – GeoMK (2021 – 2023)**  
 - Criação e execução de cenários de teste utilizando BDD e testes automatizados com Cypress.  
 - Testes de performance com JMeter e validação de APIs usando Postman.  
 
