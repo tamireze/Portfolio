@@ -54,8 +54,8 @@ Atuar como **Product Owner (PO)**, conectando times técnicos e de negócio para
 - **BDD Discover** (QAx)
 - **JMeter - Teste de Performance** (Udemy)
 - **Cypress Express** (Udemy)
-- ** Testes contínuos em Cypress com GitHub Actions** (Udemy)
-- ** Gestão de Desempenhos e suas Tendências** (Qulture.Rocks)
+- **Testes contínuos em Cypress com GitHub Actions** (Udemy)
+- **Gestão de Desempenhos e suas Tendências** (Qulture.Rocks)
 
 ---
 
